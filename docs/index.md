@@ -1,11 +1,7 @@
-# Obsidian Notes
+# SED Notes and documentation
 
-Publish your public notes with MkDocs
+This repository hosts the official documentation for the SED project.
 
-## Hello World!
+## Structure
 
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+The documentation is organized into several main sections, accessible through the navigation bar. Each section corresponds to a folder/topic.
